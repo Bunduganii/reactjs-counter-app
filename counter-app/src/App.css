@@ -1,0 +1,41 @@
+.cont{
+  display: flex;
+  justify-content: center;
+  font-size: 120px;
+}
+.btns{
+  display: flex;
+ 
+  justify-content: center;
+}
+.btns button{
+
+  padding: 15px 30px;
+  font-size: 20px;
+  border-radius: 50px;
+ 
+  border: none;
+  cursor: pointer;
+  margin: 10px;
+}
+.inc{
+  background-color: #28a745;
+}
+.inc:hover{
+background-color: #218838;
+ transform: scale(1.1);
+}
+.dec{
+  background-color: #dc3545;
+}
+.dec:hover{
+  background-color: #c82333;
+   transform: scale(1.1);
+}
+.res{
+  background-color: #007bff;
+}
+.res:hover{
+  background-color: #0069d9;
+  transform: scale(1.1);
+}
