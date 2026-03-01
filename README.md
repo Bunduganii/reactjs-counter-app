@@ -1,2 +1,3 @@
 # reactjs-counter-app
-this is basic react js and css counter app is responsive 
+A simple React Counter App that allows users to increase, decrease, and reset a number. 
+This project helps beginners understand React state management and event handling.
